@@ -1,0 +1,22 @@
+C:\Users\mikel\OneDrive\Documents\Visual Studio 2017\Projects\Movie_Search_Api\Movie_Search_Api\bin\Debug\netcoreapp2.0\Movie_Search_Api.deps.json
+C:\Users\mikel\OneDrive\Documents\Visual Studio 2017\Projects\Movie_Search_Api\Movie_Search_Api\bin\Debug\netcoreapp2.0\Movie_Search_Api.runtimeconfig.json
+C:\Users\mikel\OneDrive\Documents\Visual Studio 2017\Projects\Movie_Search_Api\Movie_Search_Api\bin\Debug\netcoreapp2.0\Movie_Search_Api.runtimeconfig.dev.json
+C:\Users\mikel\OneDrive\Documents\Visual Studio 2017\Projects\Movie_Search_Api\Movie_Search_Api\bin\Debug\netcoreapp2.0\Movie_Search_Api.dll
+C:\Users\mikel\OneDrive\Documents\Visual Studio 2017\Projects\Movie_Search_Api\Movie_Search_Api\bin\Debug\netcoreapp2.0\Movie_Search_Api.pdb
+C:\Users\mikel\OneDrive\Documents\Visual Studio 2017\Projects\Movie_Search_Api\Movie_Search_Api\obj\Debug\netcoreapp2.0\Movie_Search_Api.csprojAssemblyReference.cache
+C:\Users\mikel\OneDrive\Documents\Visual Studio 2017\Projects\Movie_Search_Api\Movie_Search_Api\obj\Debug\netcoreapp2.0\Movie_Search_Api.csproj.CoreCompileInputs.cache
+C:\Users\mikel\OneDrive\Documents\Visual Studio 2017\Projects\Movie_Search_Api\Movie_Search_Api\obj\Debug\netcoreapp2.0\Movie_Search_Api.AssemblyInfoInputs.cache
+C:\Users\mikel\OneDrive\Documents\Visual Studio 2017\Projects\Movie_Search_Api\Movie_Search_Api\obj\Debug\netcoreapp2.0\Movie_Search_Api.AssemblyInfo.cs
+C:\Users\mikel\OneDrive\Documents\Visual Studio 2017\Projects\Movie_Search_Api\Movie_Search_Api\obj\Debug\netcoreapp2.0\Movie_Search_Api.dll
+C:\Users\mikel\OneDrive\Documents\Visual Studio 2017\Projects\Movie_Search_Api\Movie_Search_Api\obj\Debug\netcoreapp2.0\Movie_Search_Api.pdb
+C:\Users\michael\Desktop\rameez\Movie_Search_Api\api\Movie_Search_Api\bin\Debug\netcoreapp2.0\Movie_Search_Api.deps.json
+C:\Users\michael\Desktop\rameez\Movie_Search_Api\api\Movie_Search_Api\bin\Debug\netcoreapp2.0\Movie_Search_Api.runtimeconfig.json
+C:\Users\michael\Desktop\rameez\Movie_Search_Api\api\Movie_Search_Api\bin\Debug\netcoreapp2.0\Movie_Search_Api.runtimeconfig.dev.json
+C:\Users\michael\Desktop\rameez\Movie_Search_Api\api\Movie_Search_Api\bin\Debug\netcoreapp2.0\Movie_Search_Api.dll
+C:\Users\michael\Desktop\rameez\Movie_Search_Api\api\Movie_Search_Api\bin\Debug\netcoreapp2.0\Movie_Search_Api.pdb
+C:\Users\michael\Desktop\rameez\Movie_Search_Api\api\Movie_Search_Api\obj\Debug\netcoreapp2.0\Movie_Search_Api.csprojAssemblyReference.cache
+C:\Users\michael\Desktop\rameez\Movie_Search_Api\api\Movie_Search_Api\obj\Debug\netcoreapp2.0\Movie_Search_Api.csproj.CoreCompileInputs.cache
+C:\Users\michael\Desktop\rameez\Movie_Search_Api\api\Movie_Search_Api\obj\Debug\netcoreapp2.0\Movie_Search_Api.AssemblyInfoInputs.cache
+C:\Users\michael\Desktop\rameez\Movie_Search_Api\api\Movie_Search_Api\obj\Debug\netcoreapp2.0\Movie_Search_Api.AssemblyInfo.cs
+C:\Users\michael\Desktop\rameez\Movie_Search_Api\api\Movie_Search_Api\obj\Debug\netcoreapp2.0\Movie_Search_Api.dll
+C:\Users\michael\Desktop\rameez\Movie_Search_Api\api\Movie_Search_Api\obj\Debug\netcoreapp2.0\Movie_Search_Api.pdb
